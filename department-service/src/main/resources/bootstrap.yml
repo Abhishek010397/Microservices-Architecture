@@ -1,0 +1,6 @@
+#For getting all the cloud Configuration File
+spring:
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:9296
