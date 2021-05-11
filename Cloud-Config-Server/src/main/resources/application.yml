@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Abhishek010397/Microservices-Architecture
-            clone-on-start: true
+          uri: https://github.com/Abhishek010397/Airflow-Docker-compose
+          clone-on-start: true
